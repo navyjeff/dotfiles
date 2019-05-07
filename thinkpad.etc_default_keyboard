@@ -1,0 +1,11 @@
+# KEYBOARD CONFIGURATION FILE
+
+# Consult the keyboard(5) manual page.
+# Set as Thinkpad keyboard, assign caps lock as ctrl, ctrl-alt-backspace restarts X11, 
+
+XKBMODEL="thinkpad60"
+XKBLAYOUT="us"
+XKBVARIANT=""
+XKBOPTIONS="terminate:ctrl_alt_bksp,compose:menu,ctrl:nocaps"
+
+BACKSPACE="guess"
